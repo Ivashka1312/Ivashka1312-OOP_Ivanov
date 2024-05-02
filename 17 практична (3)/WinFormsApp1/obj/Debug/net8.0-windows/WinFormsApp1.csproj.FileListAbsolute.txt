@@ -1,0 +1,6 @@
+D:\Documents\Навчання\ООП\2 семестр\17 практична (3)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+D:\Documents\Навчання\ООП\2 семестр\17 практична (3)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\Documents\Навчання\ООП\2 семестр\17 практична (3)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Навчання\ООП\2 семестр\17 практична (3)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Documents\Навчання\ООП\2 семестр\17 практична (3)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\Documents\Навчання\ООП\2 семестр\17 практична (3)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
